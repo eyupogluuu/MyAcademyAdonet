@@ -6,7 +6,8 @@ Bu proje, ADO.NET kullanarak geliştirilmiş bir CRUD (Create, Read, Update, Del
 **Ekran Resimleri:**<br>
 
 
-![](https://github.com/eyupogluuu/MyAcademyCarBook/blob/master/CarbookEkranG/anasayfa.PNG)<br> <br>
+![](https://github.com/eyupogluuu/MyAcademyAdonet/blob/master/adonetpro.PNG)<br> <br>
+![](https://github.com/eyupogluuu/MyAcademyAdonet/blob/master/adonet2.PNG)<br> <br>
 
 
 
