@@ -1,5 +1,5 @@
-# MYAcademyCarbook
-ASP.NET Core 6 kullanılarak geliştirilmiş, N katmanlı mimari prensiplerine dayalı, güvenli ve ölçeklenebilir bir araç kiralama platformunu hedefleyen bir web uygulamasıdır.
+# MYAcademyAdonet
+Bu proje, ADO.NET kullanarak geliştirilmiş bir CRUD (Create, Read, Update, Delete) işlemleri örnek uygulamasıdır. Veritabanı işlemlerini gerçekleştirmek için ADO.NET'i kullanan bu uygulama, kullanıcılara ekleme, silme, güncelleme ve bulma gibi temel veritabanı işlemlerini gerçekleştirme imkanı sunar. Veritabanı işlemleri için basit ve anlaşılabilir bir arayüz sağlayarak, kullanıcıların veri manipülasyonunu kolaylaştırır ve etkili bir şekilde yönetmelerine olanak tanır. Bu proje, ADO.NET'in temel yeteneklerini öğrenmek ve uygulamak için harika bir örnek olabilir.
 <br>
 
 
