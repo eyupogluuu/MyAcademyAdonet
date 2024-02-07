@@ -11,10 +11,10 @@ Bu proje, ADO.NET kullanarak geliştirilmiş bir CRUD (Create, Read, Update, Del
 
 
 
-**Amaç**
+**Amaç:**<br>
 Kullanıcılar, ekle sil güncelle bul gibi temel crud işlemlerini yapabilirler..
 <br>
-**Kurulum**
+**Kurulum:**
 <br>
 Projeyi klonlayın. <br>
 
